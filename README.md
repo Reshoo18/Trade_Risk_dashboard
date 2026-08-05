@@ -23,7 +23,7 @@ A responsive React dashboard built for the Tradescape Full Stack Developer Assig
 ---
  Live Demo
 
-**Deployment in progress...**
+https://reshoo-trader-risk-dashboard.netlify.app/
 
 ---
 
